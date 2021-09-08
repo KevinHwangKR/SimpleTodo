@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-Some challenged I encountered while building the app were understanding how to add a feature that allows users to edit todo items and connecting the application to github.
+Some challenges I encountered while building the app were struggling to understand adding a feature that allows users to edit todo items and connecting the application to github.
 
 ## License
 
