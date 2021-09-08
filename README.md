@@ -4,7 +4,7 @@
 
 Submitted by: **Gyujin Hwang**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -34,9 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Some challenged I encountered while building the app were understanding how to add a feature that allows users to edit todo items and connecting the application to github.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Gyujin Hwang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
